@@ -1,4 +1,4 @@
-const scss = {
+window.scss = {
   style(rules) {
     const el = document.createElement("style")
     const html = handleRules(rules)
@@ -44,4 +44,8 @@ function handleRules(rules) {
   }
 
   return html
+}
+
+const rnd = {
+  
 }

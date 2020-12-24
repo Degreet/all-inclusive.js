@@ -5,12 +5,14 @@ scss.style({
     "outline": "none",
     "font-family": "Lato, Roboto, sans-serif"
   },
+
   "main": {
     "display": "flex",
     "flex-direction": "column",
     "justify-content": "center",
     "align-items": "center",
     "height": "100vh",
+    "background": "#fafafa",
 
     "h1": {
       "margin-bottom": "15px"
